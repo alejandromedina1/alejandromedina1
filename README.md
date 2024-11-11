@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alejandro and I'm a Frontend Developer, from Cali, Colombia. </h2>
+<h2 align="left">Hi 👋! My name is Alejandro and I'm a Frontend Developer, from Cali, Co. </h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdvc2E3ajRydThhZzdsYWg1ZzU5N2Foc2xsNHdicXEzb3V6YXA0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/TyQY0zTXX4x0c/giphy.gif?cid=ecf05e47akq6ox8ocu5xhxhyne8gou2la0yzp909m8zkxuc1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -89,8 +89,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/alejandromedina1/alejandromedina1/output/snake.svg" alt="Snake animation" />
 
