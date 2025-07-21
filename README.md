@@ -1,4 +1,4 @@
-<h2 align="left">👋🏻 Hey! My name is Alejandro 👨🏻‍💻<br>I'm an Interactive Media Designer, from Cali, Co.</h2>
+<h2 align="left">👋🏻 Hey! My name is Alejo 👨🏻‍💻<br>I'm an Interactive Media Designer, from Cali, Co.</h2>
 
 ###
 
